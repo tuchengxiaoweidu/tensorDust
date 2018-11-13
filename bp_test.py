@@ -1,4 +1,4 @@
-import tensorflow as tf
+import tensorflow as tf   //tensorFlow
 import numpy as np
 
 # 例子1，拟合y_data的函数，权重和偏置分别趋近0.1和0.3
